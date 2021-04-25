@@ -1,0 +1,44 @@
+
+
+
+.tit{
+    text-align: center;
+    margin-top: 2%;
+    color: #0d6efd;
+}
+
+.adduser{
+    text-align: right;
+    margin-right: 14%;
+    margin-top: 2%;
+}
+
+.search{
+    max-width: 30%;
+    margin-top: 2%;
+    margin-left: 37%;
+    margin-bottom: 2%;
+}
+
+.lg_base{
+    background: rgba(6, 2, 245, 0.178);
+    max-width: 30%;
+    margin-top: 2%;
+    margin-left: 35%;
+    border-radius: 3%;
+    padding: 1%;
+}
+
+.imglogo{
+    width: 50%;
+    margin-top: 4%;
+}
+
+.logo{
+    text-align: center;
+}
+
+.forlogin{
+    padding: 6%;
+    margin-top: 4%;
+}
